@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="Week_five_chat_app:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Week_five_chat_app_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Week_five_chat_app.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
